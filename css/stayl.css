@@ -1,0 +1,36 @@
+.ana_div{
+    margin: auto;
+    margin-top: 35px;
+    width: 550px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: #1abbb0;
+}
+.alt_div{
+    margin: auto;
+    margin-top: 10px;
+    padding-left: 10px;
+    width: 550px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #1abbb0;
+}
+.title{
+    text-align: center;
+    font-size: xx-large;
+}
+.ayrac{
+    color: black;
+    border-top: 3px solid black;
+    max-width: 400px;
+    margin: 25px auto;
+}
+.üretici{
+    margin: auto;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+#test{
+    font-size: xx-large;
+}
